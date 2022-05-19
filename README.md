@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henry132109
-- 👀 I’m interested in React, Nodejs/Express - I have been writing complicated and Performant forms for clients in React.
-- 🌱 I’m currently learning about underlying principles of JWT, sessioning and authenication in general.
+- 👀 I’m interested in React, Nodejs/Express - I have been working with Material UI and writing tailor-made and performant forms for clients in React.
+- 🌱 I’m currently learning about cybersecurity and more scalable backend application and development in general.
 - 💞️ //I’m looking to collaborate on ...
 - 📫 Simply reach me on gmail.
 
